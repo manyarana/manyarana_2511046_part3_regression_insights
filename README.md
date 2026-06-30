@@ -232,10 +232,10 @@ part3_regression_insights/
 
 The repository includes the following screenshots as evidence of the analysis:
 
-* **simple_regression_output.png** – Output of the simple linear regression model.
-* **multiple_regression_output.png** – Output of the final multiple regression model.
-* **residuals_preview.png** – Predicted monthly sales and residual calculations.
-* **model_comparison_preview.png** – Comparison table summarising all regression models.
+* **simple_regression_output.png** – Output of the simple linear regression model.(https://github.com/manyarana/manyarana_2511046_part3_regression_insights/blob/main/screenshots/simple_regression_output.png)
+* **multiple_regression_output.png** – Output of the final multiple regression model.(https://github.com/manyarana/manyarana_2511046_part3_regression_insights/blob/main/screenshots/multiple_regression_output.png)
+* **residuals_preview.png** – Predicted monthly sales and residual calculations.(https://github.com/manyarana/manyarana_2511046_part3_regression_insights/blob/main/screenshots/residuals_preview.png)
+* **model_comparison_preview.png** – Comparison table summarising all regression models.(https://github.com/manyarana/manyarana_2511046_part3_regression_insights/blob/main/screenshots/model_comparison_preview.png)
 
 These screenshots provide supporting evidence for the statistical analysis and conclusions presented in this project.
 
